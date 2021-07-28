@@ -319,24 +319,13 @@ thought fit.
 ■ Recognize fake data and penalize generator
 ■ Generator and Discriminators Compete with Each Other!!!
 ```
-### ● Tasks: Due to the time constraints ( partially dueto the break for Y20 End- Sem and
 
 ```
-partially due to the Y19 Internships), the week 5- week 6 plans were cut short and only
-the following task was given -
-```
-### ○ Complete the programming exercises shared and updatethe github repo
-
-```
-with practice code and solved assignments- therewere a total of 3
-assignments. Mentees were taught the following things-
-```
-```
-■ Simple encoding and decoding (reproducing) of datausing a neural
+■ Simple encoding and decoding (reproducing) of data using a neural
 network.
 ```
 ```
-■ Repeating the above process by adding convolutioninstead of simple
+■ Repeating the above process by adding convolution instead of simple
 neural network and observing improvement in results
 ```
 ```
